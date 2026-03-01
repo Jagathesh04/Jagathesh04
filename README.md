@@ -58,6 +58,16 @@
 </div>
 
 ---
+
+<div align="center">
+  <h3>🎭 How I handle new datasets:</h3>
+  <!-- Make sure the filename matches exactly what you uploaded! -->
+  <img src="dataset-meme.png" alt="Dataset Meme" width="600" style="border-radius: 10px;"/>
+</div>
+
+---
+
+---
 <div align="center">
   <!-- 🚨 Ensure 'Jagathesh04' is correct in the links below -->
   
