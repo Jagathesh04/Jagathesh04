@@ -19,7 +19,7 @@
 
 - 🔭 I’m currently working on **[R-GenQIET](https://github.com/jagathesh04/R-GenQIET)** — *An AI-driven Chemical Reaction Optimization tool.*
 - 🌱 I’m currently learning **Graph Attention Networks (GATs), Transformers for Chemistry, and Docker.**
-- ⚡ Fun fact: **I use Game Theory to analyze biological evolution when I'm not training neural networks.**
+- ⚡ Fun fact: **I didn't know there are not much computational chemists until my own prof was shocked when I said, "I like computers"**
 - 💬 Ask me about:
 
 <p align="left">
@@ -60,17 +60,19 @@
 ---
 
 <div align="center">
-  <h3>🎭 How I handle new datasets:</h3>
   <!-- Make sure the filename matches exactly what you uploaded! -->
-  <img src="dataset-meme.png" alt="Dataset Meme" width="600" style="border-radius: 10px;"/>
+  <img src="dataset-meme.png" alt="Dataset Meme" width="600" />
 </div>
 
 ---
 
+> 🔒 **Note on GitHub Stats:** The majority of my recent work involves unpublished research and proprietary datasets. Therefore, my public contribution graph and language stats may not fully reflect my daily coding activity!
+
 <div align="center">
-  <!-- 🚨 Ensure 'Jagathesh04' is correct in the links below -->
-  
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Jagathesh04&layout=compact&hide_border=true&bg_color=a8ff78,78ffd6&title_color=000000&text_color=1c1c1c" height="170" alt="languages graph"  />
+  <!-- Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jagathesh04&layout=compact&theme=radical&hide_border=true" height="170" alt="languages graph"  />
   <br>
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Jagathesh04&show_icons=true&hide_border=true&count_private=true&bg_color=a8ff78,78ffd6&title_color=000000&text_color=1c1c1c&icon_color=000000" height="170" alt="stats graph"  />
+  
+  <!-- Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Jagathesh04&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170" alt="stats graph"  />
 </div>
