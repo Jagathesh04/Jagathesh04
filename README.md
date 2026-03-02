@@ -69,10 +69,9 @@
 > 🔒 **Note on GitHub Stats:** The majority of my recent work involves unpublished research and proprietary datasets. Therefore, my public contribution graph and language stats may not fully reflect my daily coding activity!
 
 <div align="center">
-  <!-- Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jagathesh04&layout=compact&theme=radical&hide_border=true" height="170" alt="languages graph"  />
+  <!-- 🚨 Ensure 'Jagathesh04' is correct in the links below -->
+
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Jagathesh04&layout=compact&hide_border=true&bg_color=a8ff78,78ffd6&title_color=000000&text_color=1c1c1c" height="170" alt="languages graph"  />
   <br>
-  
-  <!-- Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Jagathesh04&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170" alt="stats graph"  />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Jagathesh04&show_icons=true&hide_border=true&count_private=true&bg_color=a8ff78,78ffd6&title_color=000000&text_color=1c1c1c&icon_color=000000" height="170" alt="stats graph"  />
 </div>
